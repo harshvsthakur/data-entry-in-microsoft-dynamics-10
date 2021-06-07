@@ -18,6 +18,6 @@ i.e. 45.00 had to be entered as 4500
 
 To overcome this, this code snippet removes the decimal of quantities and prices to be entered in the ERP and restores the decimal at the end of PO entry.
 
-##4 GRV
+## 4 GRV
 1. Automatically generates Goods Recieved Vouchers (GRV) against delivery orders/ delivery notes based on PO number.
 2. Opens the scanned PO for verification or print outs.
